@@ -1,0 +1,89 @@
+[33mcommit e9e3a63407ec2f06d17acee63d78fb8dd8de9cca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Wed Aug 8 12:39:21 2018 -0300
+
+    new sync
+
+[33mcommit 88a366829444591199c38fc30bf71475ebca40a6[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Wed Aug 8 12:34:02 2018 -0300
+
+    new sync
+
+[33mcommit 853d242bf8857e4cc35a93a6078ed8218868d81a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Wed Aug 8 12:16:02 2018 -0300
+
+    I did this work
+
+[33mcommit d09fca2225bdeab6244eefde6c8ba6fc20cf4354[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Wed Aug 8 11:56:28 2018 -0300
+
+    novo sync
+
+[33mcommit 40a1b24003bc7d0965c7cac3b63daa069d0bd88e[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Wed Aug 8 11:54:44 2018 -0300
+
+    senhor
+
+[33mcommit c1b7ee9749e9d6f3ecce75af0f9dfb930bae01db[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Wed Aug 8 11:52:45 2018 -0300
+
+    master
+
+[33mcommit 8fe05fee719eaf299d44fc3592549d183500bcea[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 17:25:12 2018 -0300
+
+    It was a very specific change done in the readme file only
+
+[33mcommit d5ad5b6591d567056f69b73ca146b4e99a9ed2d9[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 17:23:42 2018 -0300
+
+    changes done to a single file
+
+[33mcommit b8e9f469332b73d51d6fb9fb120e7a3cdf5ba32c[m
+Merge: 77e928c 376a850
+Author: Felipe C <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 16:41:12 2018 -0300
+
+    Merge pull request #2 from felipechaves/change-js-message
+    
+    changes done to README.md
+
+[33mcommit 376a8503aa7498294ed65f6591ca55561c561953[m[33m ([m[1;31morigin/change-js-message[m[33m, [m[1;32mchange-js-message[m[33m)[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 16:38:52 2018 -0300
+
+    changes done to README.md
+
+[33mcommit 77e928c47b1c382ae311c05315cd2991d19095bc[m
+Merge: 9941fd5 f59f407
+Author: Felipe C <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 15:19:39 2018 -0300
+
+    Merge pull request #1 from felipechaves/change-js-message
+    
+    changed alert message
+
+[33mcommit f59f407c69c5349e3995fb8e147f902d38bd05d4[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 15:16:56 2018 -0300
+
+    changed alert message
+
+[33mcommit 9941fd5958fbe285c89a90e9471e537525f17e4d[m
+Author: felipechaves <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 15:07:43 2018 -0300
+
+    sinc inicial
+
+[33mcommit cac655d58965596f0f7c471c90bdffb07436b43c[m
+Author: Felipe C <chaves.felipe@gmail.com>
+Date:   Mon Aug 6 14:55:05 2018 -0300
+
+    Initial commit
